@@ -1,0 +1,10 @@
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\bin\Debug\netcoreapp3.1\SignalR_Common.deps.json
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\bin\Debug\netcoreapp3.1\SignalR_Common.dll
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\bin\Debug\netcoreapp3.1\SignalR_Common.pdb
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.AssemblyInfoInputs.cache
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.AssemblyInfo.cs
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.csproj.CoreCompileInputs.cache
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.dll
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.pdb
+C:\Users\ibrag\source\repos\SignalR_Service\SignalR_Common\obj\Debug\netcoreapp3.1\SignalR_Common.csproj.AssemblyReference.cache
